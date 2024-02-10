@@ -1,0 +1,33 @@
+{
+  "todoList": [
+    {
+      "id": "ed9a3ead-00ba-43f6-afa0-4fc2a8ac34e2",
+      "task": "pizaa hut"
+    },
+    {
+      "id": "2be129ba-4c54-4eff-8014-92b536fd9b71",
+      "task": "sai"
+    },
+    {
+      "id": "de3c91df-0192-4ed7-aeed-442cfcaf45e1",
+      "task": "bot"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
